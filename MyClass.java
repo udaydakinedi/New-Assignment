@@ -3,3 +3,24 @@ public class MyClass {
         System.out.println("Hello, world!");
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is practice and completed  by uday
